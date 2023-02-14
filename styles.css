@@ -1,0 +1,24 @@
+img {
+    height:250px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 4px;
+    width: 10%;
+}
+
+body {
+    background-color: rgb(195, 252, 255);
+}
+
+h1 {
+    color : darkblue;
+    font-family :Verdana;
+}
+
+h3 {
+    color: darkblue;
+}
